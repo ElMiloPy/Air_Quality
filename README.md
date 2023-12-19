@@ -1,3 +1,3 @@
 # elmilopy.github.io
 
-Proyecto de calidad de aire xd, recien iniciamos, no hay mucho que ver :]
+Proyecto de pagina web para calidad de aire, basado en AireLibre, literal es para el proyecto del colegio la pagina web xd
